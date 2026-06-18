@@ -1,0 +1,1 @@
+console.log("Sistem Peminjaman Laboratorium Aktif");
