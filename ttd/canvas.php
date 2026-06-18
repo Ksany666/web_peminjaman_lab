@@ -72,6 +72,10 @@ Simpan
 
 </div>
 
+<footer>
+  <p>&copy; 2026 Wepelab. Afdhal Tsany N.</p>
+</footer>
+
 </div>
 
 <script>

@@ -292,6 +292,10 @@ width="90">
 
 </div>
 
+<footer>
+  <p>&copy; 2026 Wepelab. Afdhal Tsany N.</p>
+</footer>
+
 </div>
 
 </body>
